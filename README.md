@@ -11,6 +11,6 @@ The following dictionaries are modified:
 
 1. Clone the repository.
 2. Download original dictionaries into the parent directory (not the repository directory).
-3. Run `./extract_all.sh`. (Or just manually extract the dictionaries into directories with the same names)
+3. Run `./extract_all.sh`. (Or just manually extract the dictionaries into directories with the same names (keeping .zip), but in the repository directory.)
 4. Run `python3 cleanup.py`.
 5. Results will be placed in a newly created `transformed` directory.
